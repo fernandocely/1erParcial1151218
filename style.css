@@ -36,12 +36,12 @@ font-size: 11px;
 
    
 #main-header {
-  background: #333;
+  background: #7F33FB;
   color: white;
   height: 80px;
 } 
   #main-header a {
-    color: red;
+    color: white;
     font-size: 15px;
   }
  nav ul li {
@@ -61,4 +61,11 @@ font-size: 11px;
 
 button {
   text-align: right;
+}
+#main-footer {
+  background: #7F33FB;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 122px;
 }
